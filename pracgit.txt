@@ -1,0 +1,5 @@
+this is my first project!
+now,let us start!
+delete the third row.
+we have already learned the git add, git commit, git status, git diff.
+now, we will learn git log.
